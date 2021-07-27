@@ -11,7 +11,7 @@ Let's start with some background.
 
 ## Part 1: Pulse Rate Algorithm Overview
 
-## Algorithm Specifications
+### Algorithm Specifications
 
   * estimates pulse rate from the PPG signal and a 3-axis accelerometer.
   * assumes pulse rate will be restricted between 40BPM (beats per minute) and 240BPM
